@@ -1,0 +1,55 @@
+"""
+Prerequisites
+  HTML
+  CSS
+  Flexbox + Grid
+  Let and Const
+  JS + ES6
+  HIgher Order Functions
+  Arrow Func.
+  CAllback Func.
+  
+ React Building Blocks
+  State
+  Keys
+  Virtual DOM
+  Forms
+  Hooks
+  Event Handling
+  LifeCycle
+  Functional Components
+  
+Managing State
+  Redux
+  Local State
+  Global State
+  React Context
+  Flux Architecture
+  
+Design
+  Emotion
+  Styled JSX
+  Styled Components
+  CSS in JS
+  JSS
+  Inlife Style
+  
+Advanced Concepts
+  Error Boundaries
+  Code Splitting
+  Portals
+  Optimization
+  HIgher Order COmponents
+  Type Checking
+  React DEv Tools
+  
+Unit Testing
+  React Testing Library
+  Jest
+  
+Last Steps
+  Gasby
+  React Native
+  NextJS
+  ElectronJS
+  
